@@ -17,6 +17,7 @@
     "deep-check-error": "^1.0.1",
     "history": "^2.1.1",
     "immutability-helper": "^2.0.0",
+    "node-horseman": "^3.2.0",
     "object-path-immutable": "^0.5.1",
     "pluralize": "^3.1.0",
     "react-addons-css-transition-group": "^15.4.1",
